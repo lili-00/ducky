@@ -1,2 +1,2 @@
 # ducky-ui
-An example streamlit Python client using LLM technology
+A web app that uses multiple specialized AI agents to serve different proposes for generating software systems.
